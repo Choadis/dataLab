@@ -10,4 +10,4 @@
 
 # Step 6: Modeling: Plugged data into already prepared files
 
-#Step 7: Automation: Ran the files and they did the things!
+# Step 7: Automation: Ran the files and they did the things!
